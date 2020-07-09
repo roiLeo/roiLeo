@@ -6,4 +6,4 @@
 ---
 Welcome to my Github profil,  
 
-I'm a 🇫🇷 __frontend developer__, __designer__, and __open source contributor__. This profil is a compendium of the things I have learned over the years, and also my __digital garden__.
+I'm a 🇫🇷 __frontend developer__, __designer__, and __open source contributor__. This profil is a compendium of the things I have learned over the years, and also my *digital garden*.
